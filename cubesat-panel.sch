@@ -72,25 +72,25 @@ $EndComp
 $Comp
 L JSLINTER P3
 U 1 1 5A728F4E
-P 3575 3300
-F 0 "P3" H 3725 3000 60  0000 C CNN
-F 1 "JSLINTER" V 3375 3250 60  0000 C CNN
-F 2 "SFUSat:JSLINTER-39x26" H 3575 3300 60  0001 C CNN
-F 3 "" H 3575 3300 60  0001 C CNN
-F 4 "https://www.aliexpress.com/store/product/JSLINTER-150pcs-Cheap-Solar-Cell-Polycrystalline-DIY-Solar-Panel-Small-Battey-Charger-0-5V-0-18W/213231_32791938913.html?spm=2114.12010108.0.0.3521c5eAAKH1a" H 3575 3300 60  0001 C CNN "Aliexpress"
-	1    3575 3300
+P 5100 3275
+F 0 "P3" H 5250 2975 60  0000 C CNN
+F 1 "JSLINTER" V 4900 3225 60  0000 C CNN
+F 2 "SFUSat:JSLINTER-39x26" H 5100 3275 60  0001 C CNN
+F 3 "" H 5100 3275 60  0001 C CNN
+F 4 "https://www.aliexpress.com/store/product/JSLINTER-150pcs-Cheap-Solar-Cell-Polycrystalline-DIY-Solar-Panel-Small-Battey-Charger-0-5V-0-18W/213231_32791938913.html?spm=2114.12010108.0.0.3521c5eAAKH1a" H 5100 3275 60  0001 C CNN "Aliexpress"
+	1    5100 3275
 	1    0    0    -1  
 $EndComp
 $Comp
 L JSLINTER P4
 U 1 1 5A728F7B
-P 3575 4250
-F 0 "P4" H 3725 3950 60  0000 C CNN
-F 1 "JSLINTER" V 3375 4200 60  0000 C CNN
-F 2 "SFUSat:JSLINTER-39x26" H 3575 4250 60  0001 C CNN
-F 3 "" H 3575 4250 60  0001 C CNN
-F 4 "https://www.aliexpress.com/store/product/JSLINTER-150pcs-Cheap-Solar-Cell-Polycrystalline-DIY-Solar-Panel-Small-Battey-Charger-0-5V-0-18W/213231_32791938913.html?spm=2114.12010108.0.0.3521c5eAAKH1a" H 3575 4250 60  0001 C CNN "Aliexpress"
-	1    3575 4250
+P 5100 4225
+F 0 "P4" H 5250 3925 60  0000 C CNN
+F 1 "JSLINTER" V 4900 4175 60  0000 C CNN
+F 2 "SFUSat:JSLINTER-39x26" H 5100 4225 60  0001 C CNN
+F 3 "" H 5100 4225 60  0001 C CNN
+F 4 "https://www.aliexpress.com/store/product/JSLINTER-150pcs-Cheap-Solar-Cell-Polycrystalline-DIY-Solar-Panel-Small-Battey-Charger-0-5V-0-18W/213231_32791938913.html?spm=2114.12010108.0.0.3521c5eAAKH1a" H 5100 4225 60  0001 C CNN "Aliexpress"
+	1    5100 4225
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -144,25 +144,25 @@ $EndComp
 $Comp
 L CONN-TAB J5
 U 1 1 5A72A157
-P 3575 2725
-F 0 "J5" H 3575 2525 60  0000 C CNN
-F 1 "CONN-TAB" H 3575 3025 60  0000 C CNN
-F 2 "SFUSat:CONN_TAB" H 3575 2725 60  0001 C CNN
-F 3 "" H 3575 2725 60  0001 C CNN
-F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Panel-Welding-Tabbing-Wire-10m-1-8-0-16mm-New/213231_32819641955.html?spm=2114.12010612.0.0.5c0c14a2RvBb40" H 3575 2725 60  0001 C CNN "Aliexpress"
-	1    3575 2725
+P 5100 2700
+F 0 "J5" H 5100 2500 60  0000 C CNN
+F 1 "CONN-TAB" H 5100 3000 60  0000 C CNN
+F 2 "SFUSat:CONN_TAB" H 5100 2700 60  0001 C CNN
+F 3 "" H 5100 2700 60  0001 C CNN
+F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Panel-Welding-Tabbing-Wire-10m-1-8-0-16mm-New/213231_32819641955.html?spm=2114.12010612.0.0.5c0c14a2RvBb40" H 5100 2700 60  0001 C CNN "Aliexpress"
+	1    5100 2700
 	0    -1   -1   0   
 $EndComp
 $Comp
 L CONN-TAB J6
 U 1 1 5A72A186
-P 3575 4925
-F 0 "J6" H 3575 4725 60  0000 C CNN
-F 1 "CONN-TAB" H 3575 5225 60  0000 C CNN
-F 2 "SFUSat:CONN_TAB" H 3575 4925 60  0001 C CNN
-F 3 "" H 3575 4925 60  0001 C CNN
-F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Panel-Welding-Tabbing-Wire-10m-1-8-0-16mm-New/213231_32819641955.html?spm=2114.12010612.0.0.5c0c14a2RvBb40" H 3575 4925 60  0001 C CNN "Aliexpress"
-	1    3575 4925
+P 5100 4900
+F 0 "J6" H 5100 4700 60  0000 C CNN
+F 1 "CONN-TAB" H 5100 5200 60  0000 C CNN
+F 2 "SFUSat:CONN_TAB" H 5100 4900 60  0001 C CNN
+F 3 "" H 5100 4900 60  0001 C CNN
+F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Panel-Welding-Tabbing-Wire-10m-1-8-0-16mm-New/213231_32819641955.html?spm=2114.12010612.0.0.5c0c14a2RvBb40" H 5100 4900 60  0001 C CNN "Aliexpress"
+	1    5100 4900
 	0    1    1    0   
 $EndComp
 $Comp
@@ -268,7 +268,7 @@ F 5 "SFH 2430-Z" H 8700 4350 60  0001 C CNN "PN"
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3575 3750 3575 3900
+	5100 3725 5100 3875
 Wire Wire Line
 	1775 3850 1775 3700
 Wire Wire Line
@@ -278,9 +278,39 @@ Wire Wire Line
 Wire Wire Line
 	2425 2775 2425 4775
 Wire Wire Line
-	3575 4700 3575 4825
+	5100 4675 5100 4800
 Wire Wire Line
-	3575 2825 3575 2950
+	5100 2800 5100 2925
 Wire Wire Line
 	4300 2825 4300 4825
+$Comp
+L GND #PWR?
+U 1 1 5A735E29
+P 7250 4900
+F 0 "#PWR?" H 7250 4650 50  0001 C CNN
+F 1 "GND" H 7250 4750 50  0000 C CNN
+F 2 "" H 7250 4900 50  0001 C CNN
+F 3 "" H 7250 4900 50  0001 C CNN
+	1    7250 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 5A735E71
+P 8125 4900
+F 0 "#PWR?" H 8125 4650 50  0001 C CNN
+F 1 "GND" H 8125 4750 50  0000 C CNN
+F 2 "" H 8125 4900 50  0001 C CNN
+F 3 "" H 8125 4900 50  0001 C CNN
+	1    8125 4900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8050 4800 8125 4800
+Wire Wire Line
+	8125 4800 8125 4900
+Wire Wire Line
+	7175 4825 7250 4825
+Wire Wire Line
+	7250 4825 7250 4900
 $EndSCHEMATC
