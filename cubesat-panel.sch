@@ -48,146 +48,146 @@ $EndDescr
 $Comp
 L JSLINTER P1
 U 1 1 5A728E3D
-P 4350 3600
-F 0 "P1" H 4500 3300 60  0000 C CNN
-F 1 "JSLINTER" V 4150 3550 60  0000 C CNN
-F 2 "SFUSat:JSLINTER-39x26" H 4350 3600 60  0001 C CNN
-F 3 "" H 4350 3600 60  0001 C CNN
-F 4 "https://www.aliexpress.com/store/product/JSLINTER-150pcs-Cheap-Solar-Cell-Polycrystalline-DIY-Solar-Panel-Small-Battey-Charger-0-5V-0-18W/213231_32791938913.html?spm=2114.12010108.0.0.3521c5eAAKH1a" H 4350 3600 60  0001 C CNN "Aliexpress"
-	1    4350 3600
+P 1775 3250
+F 0 "P1" H 1925 2950 60  0000 C CNN
+F 1 "JSLINTER" V 1575 3200 60  0000 C CNN
+F 2 "SFUSat:JSLINTER-39x26" H 1775 3250 60  0001 C CNN
+F 3 "" H 1775 3250 60  0001 C CNN
+F 4 "https://www.aliexpress.com/store/product/JSLINTER-150pcs-Cheap-Solar-Cell-Polycrystalline-DIY-Solar-Panel-Small-Battey-Charger-0-5V-0-18W/213231_32791938913.html?spm=2114.12010108.0.0.3521c5eAAKH1a" H 1775 3250 60  0001 C CNN "Aliexpress"
+	1    1775 3250
 	1    0    0    -1  
 $EndComp
 $Comp
 L JSLINTER P2
 U 1 1 5A728F1F
-P 4850 3600
-F 0 "P2" H 5000 3300 60  0000 C CNN
-F 1 "JSLINTER" V 4650 3550 60  0000 C CNN
-F 2 "SFUSat:JSLINTER-39x26" H 4850 3600 60  0001 C CNN
-F 3 "" H 4850 3600 60  0001 C CNN
-F 4 "https://www.aliexpress.com/store/product/JSLINTER-150pcs-Cheap-Solar-Cell-Polycrystalline-DIY-Solar-Panel-Small-Battey-Charger-0-5V-0-18W/213231_32791938913.html?spm=2114.12010108.0.0.3521c5eAAKH1a" H 4850 3600 60  0001 C CNN "Aliexpress"
-	1    4850 3600
+P 1775 4200
+F 0 "P2" H 1925 3900 60  0000 C CNN
+F 1 "JSLINTER" V 1575 4150 60  0000 C CNN
+F 2 "SFUSat:JSLINTER-39x26" H 1775 4200 60  0001 C CNN
+F 3 "" H 1775 4200 60  0001 C CNN
+F 4 "https://www.aliexpress.com/store/product/JSLINTER-150pcs-Cheap-Solar-Cell-Polycrystalline-DIY-Solar-Panel-Small-Battey-Charger-0-5V-0-18W/213231_32791938913.html?spm=2114.12010108.0.0.3521c5eAAKH1a" H 1775 4200 60  0001 C CNN "Aliexpress"
+	1    1775 4200
 	1    0    0    -1  
 $EndComp
 $Comp
 L JSLINTER P3
 U 1 1 5A728F4E
-P 5375 3600
-F 0 "P3" H 5525 3300 60  0000 C CNN
-F 1 "JSLINTER" V 5175 3550 60  0000 C CNN
-F 2 "SFUSat:JSLINTER-39x26" H 5375 3600 60  0001 C CNN
-F 3 "" H 5375 3600 60  0001 C CNN
-F 4 "https://www.aliexpress.com/store/product/JSLINTER-150pcs-Cheap-Solar-Cell-Polycrystalline-DIY-Solar-Panel-Small-Battey-Charger-0-5V-0-18W/213231_32791938913.html?spm=2114.12010108.0.0.3521c5eAAKH1a" H 5375 3600 60  0001 C CNN "Aliexpress"
-	1    5375 3600
+P 3575 3300
+F 0 "P3" H 3725 3000 60  0000 C CNN
+F 1 "JSLINTER" V 3375 3250 60  0000 C CNN
+F 2 "SFUSat:JSLINTER-39x26" H 3575 3300 60  0001 C CNN
+F 3 "" H 3575 3300 60  0001 C CNN
+F 4 "https://www.aliexpress.com/store/product/JSLINTER-150pcs-Cheap-Solar-Cell-Polycrystalline-DIY-Solar-Panel-Small-Battey-Charger-0-5V-0-18W/213231_32791938913.html?spm=2114.12010108.0.0.3521c5eAAKH1a" H 3575 3300 60  0001 C CNN "Aliexpress"
+	1    3575 3300
 	1    0    0    -1  
 $EndComp
 $Comp
 L JSLINTER P4
 U 1 1 5A728F7B
-P 5875 3600
-F 0 "P4" H 6025 3300 60  0000 C CNN
-F 1 "JSLINTER" V 5675 3550 60  0000 C CNN
-F 2 "SFUSat:JSLINTER-39x26" H 5875 3600 60  0001 C CNN
-F 3 "" H 5875 3600 60  0001 C CNN
-F 4 "https://www.aliexpress.com/store/product/JSLINTER-150pcs-Cheap-Solar-Cell-Polycrystalline-DIY-Solar-Panel-Small-Battey-Charger-0-5V-0-18W/213231_32791938913.html?spm=2114.12010108.0.0.3521c5eAAKH1a" H 5875 3600 60  0001 C CNN "Aliexpress"
-	1    5875 3600
+P 3575 4250
+F 0 "P4" H 3725 3950 60  0000 C CNN
+F 1 "JSLINTER" V 3375 4200 60  0000 C CNN
+F 2 "SFUSat:JSLINTER-39x26" H 3575 4250 60  0001 C CNN
+F 3 "" H 3575 4250 60  0001 C CNN
+F 4 "https://www.aliexpress.com/store/product/JSLINTER-150pcs-Cheap-Solar-Cell-Polycrystalline-DIY-Solar-Panel-Small-Battey-Charger-0-5V-0-18W/213231_32791938913.html?spm=2114.12010108.0.0.3521c5eAAKH1a" H 3575 4250 60  0001 C CNN "Aliexpress"
+	1    3575 4250
 	1    0    0    -1  
 $EndComp
 $Comp
 L CONN-TAB J1
 U 1 1 5A729396
-P 4275 4600
-F 0 "J1" H 4275 4400 60  0000 C CNN
-F 1 "CONN-TAB" H 4275 4900 60  0000 C CNN
-F 2 "SFUSat:CONN_TAB" H 4275 4600 60  0001 C CNN
-F 3 "" H 4275 4600 60  0001 C CNN
-F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Panel-Welding-Tabbing-Wire-10m-1-8-0-16mm-New/213231_32819641955.html?spm=2114.12010612.0.0.5c0c14a2RvBb40" H 4275 4600 60  0001 C CNN "Aliexpress"
-	1    4275 4600
-	1    0    0    -1  
+P 1775 2675
+F 0 "J1" H 1775 2475 60  0000 C CNN
+F 1 "CONN-TAB" H 1775 2975 60  0000 C CNN
+F 2 "SFUSat:CONN_TAB" H 1775 2675 60  0001 C CNN
+F 3 "" H 1775 2675 60  0001 C CNN
+F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Panel-Welding-Tabbing-Wire-10m-1-8-0-16mm-New/213231_32819641955.html?spm=2114.12010612.0.0.5c0c14a2RvBb40" H 1775 2675 60  0001 C CNN "Aliexpress"
+	1    1775 2675
+	0    -1   -1   0   
 $EndComp
 $Comp
 L CONN-TAB J2
 U 1 1 5A7294D4
-P 4875 4600
-F 0 "J2" H 4875 4400 60  0000 C CNN
-F 1 "CONN-TAB" H 4875 4900 60  0000 C CNN
-F 2 "SFUSat:CONN_TAB" H 4875 4600 60  0001 C CNN
-F 3 "" H 4875 4600 60  0001 C CNN
-F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Panel-Welding-Tabbing-Wire-10m-1-8-0-16mm-New/213231_32819641955.html?spm=2114.12010612.0.0.5c0c14a2RvBb40" H 4875 4600 60  0001 C CNN "Aliexpress"
-	1    4875 4600
-	1    0    0    -1  
+P 1775 4875
+F 0 "J2" H 1775 4675 60  0000 C CNN
+F 1 "CONN-TAB" H 1775 5175 60  0000 C CNN
+F 2 "SFUSat:CONN_TAB" H 1775 4875 60  0001 C CNN
+F 3 "" H 1775 4875 60  0001 C CNN
+F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Panel-Welding-Tabbing-Wire-10m-1-8-0-16mm-New/213231_32819641955.html?spm=2114.12010612.0.0.5c0c14a2RvBb40" H 1775 4875 60  0001 C CNN "Aliexpress"
+	1    1775 4875
+	0    1    1    0   
 $EndComp
 $Comp
 L CONN-TAB J3
 U 1 1 5A729539
-P 5425 4600
-F 0 "J3" H 5425 4400 60  0000 C CNN
-F 1 "CONN-TAB" H 5425 4900 60  0000 C CNN
-F 2 "SFUSat:CONN_TAB" H 5425 4600 60  0001 C CNN
-F 3 "" H 5425 4600 60  0001 C CNN
-F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Panel-Welding-Tabbing-Wire-10m-1-8-0-16mm-New/213231_32819641955.html?spm=2114.12010612.0.0.5c0c14a2RvBb40" H 5425 4600 60  0001 C CNN "Aliexpress"
-	1    5425 4600
-	1    0    0    -1  
+P 2425 2675
+F 0 "J3" H 2425 2475 60  0000 C CNN
+F 1 "CONN-TAB" H 2425 2975 60  0000 C CNN
+F 2 "SFUSat:CONN_TAB" H 2425 2675 60  0001 C CNN
+F 3 "" H 2425 2675 60  0001 C CNN
+F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Panel-Welding-Tabbing-Wire-10m-1-8-0-16mm-New/213231_32819641955.html?spm=2114.12010612.0.0.5c0c14a2RvBb40" H 2425 2675 60  0001 C CNN "Aliexpress"
+	1    2425 2675
+	0    -1   -1   0   
 $EndComp
 $Comp
 L CONN-TAB J4
 U 1 1 5A729562
-P 5975 4600
-F 0 "J4" H 5975 4400 60  0000 C CNN
-F 1 "CONN-TAB" H 5975 4900 60  0000 C CNN
-F 2 "SFUSat:CONN_TAB" H 5975 4600 60  0001 C CNN
-F 3 "" H 5975 4600 60  0001 C CNN
-F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Panel-Welding-Tabbing-Wire-10m-1-8-0-16mm-New/213231_32819641955.html?spm=2114.12010612.0.0.5c0c14a2RvBb40" H 5975 4600 60  0001 C CNN "Aliexpress"
-	1    5975 4600
-	1    0    0    -1  
+P 2425 4875
+F 0 "J4" H 2425 4675 60  0000 C CNN
+F 1 "CONN-TAB" H 2425 5175 60  0000 C CNN
+F 2 "SFUSat:CONN_TAB" H 2425 4875 60  0001 C CNN
+F 3 "" H 2425 4875 60  0001 C CNN
+F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Panel-Welding-Tabbing-Wire-10m-1-8-0-16mm-New/213231_32819641955.html?spm=2114.12010612.0.0.5c0c14a2RvBb40" H 2425 4875 60  0001 C CNN "Aliexpress"
+	1    2425 4875
+	0    1    1    0   
 $EndComp
 $Comp
 L CONN-TAB J5
 U 1 1 5A72A157
-P 4350 2925
-F 0 "J5" H 4350 2725 60  0000 C CNN
-F 1 "CONN-TAB" H 4350 3225 60  0000 C CNN
-F 2 "SFUSat:CONN_TAB" H 4350 2925 60  0001 C CNN
-F 3 "" H 4350 2925 60  0001 C CNN
-F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Panel-Welding-Tabbing-Wire-10m-1-8-0-16mm-New/213231_32819641955.html?spm=2114.12010612.0.0.5c0c14a2RvBb40" H 4350 2925 60  0001 C CNN "Aliexpress"
-	1    4350 2925
-	1    0    0    -1  
+P 3575 2725
+F 0 "J5" H 3575 2525 60  0000 C CNN
+F 1 "CONN-TAB" H 3575 3025 60  0000 C CNN
+F 2 "SFUSat:CONN_TAB" H 3575 2725 60  0001 C CNN
+F 3 "" H 3575 2725 60  0001 C CNN
+F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Panel-Welding-Tabbing-Wire-10m-1-8-0-16mm-New/213231_32819641955.html?spm=2114.12010612.0.0.5c0c14a2RvBb40" H 3575 2725 60  0001 C CNN "Aliexpress"
+	1    3575 2725
+	0    -1   -1   0   
 $EndComp
 $Comp
 L CONN-TAB J6
 U 1 1 5A72A186
-P 4825 2925
-F 0 "J6" H 4825 2725 60  0000 C CNN
-F 1 "CONN-TAB" H 4825 3225 60  0000 C CNN
-F 2 "SFUSat:CONN_TAB" H 4825 2925 60  0001 C CNN
-F 3 "" H 4825 2925 60  0001 C CNN
-F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Panel-Welding-Tabbing-Wire-10m-1-8-0-16mm-New/213231_32819641955.html?spm=2114.12010612.0.0.5c0c14a2RvBb40" H 4825 2925 60  0001 C CNN "Aliexpress"
-	1    4825 2925
-	1    0    0    -1  
+P 3575 4925
+F 0 "J6" H 3575 4725 60  0000 C CNN
+F 1 "CONN-TAB" H 3575 5225 60  0000 C CNN
+F 2 "SFUSat:CONN_TAB" H 3575 4925 60  0001 C CNN
+F 3 "" H 3575 4925 60  0001 C CNN
+F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Panel-Welding-Tabbing-Wire-10m-1-8-0-16mm-New/213231_32819641955.html?spm=2114.12010612.0.0.5c0c14a2RvBb40" H 3575 4925 60  0001 C CNN "Aliexpress"
+	1    3575 4925
+	0    1    1    0   
 $EndComp
 $Comp
 L CONN-TAB J7
 U 1 1 5A72A1B3
-P 5325 2925
-F 0 "J7" H 5325 2725 60  0000 C CNN
-F 1 "CONN-TAB" H 5325 3225 60  0000 C CNN
-F 2 "SFUSat:CONN_TAB" H 5325 2925 60  0001 C CNN
-F 3 "" H 5325 2925 60  0001 C CNN
-F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Panel-Welding-Tabbing-Wire-10m-1-8-0-16mm-New/213231_32819641955.html?spm=2114.12010612.0.0.5c0c14a2RvBb40" H 5325 2925 60  0001 C CNN "Aliexpress"
-	1    5325 2925
-	1    0    0    -1  
+P 4300 2725
+F 0 "J7" H 4300 2525 60  0000 C CNN
+F 1 "CONN-TAB" H 4300 3025 60  0000 C CNN
+F 2 "SFUSat:CONN_TAB" H 4300 2725 60  0001 C CNN
+F 3 "" H 4300 2725 60  0001 C CNN
+F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Panel-Welding-Tabbing-Wire-10m-1-8-0-16mm-New/213231_32819641955.html?spm=2114.12010612.0.0.5c0c14a2RvBb40" H 4300 2725 60  0001 C CNN "Aliexpress"
+	1    4300 2725
+	0    -1   -1   0   
 $EndComp
 $Comp
 L CONN-TAB J8
 U 1 1 5A72A1E8
-P 5800 2950
-F 0 "J8" H 5800 2750 60  0000 C CNN
-F 1 "CONN-TAB" H 5800 3250 60  0000 C CNN
-F 2 "SFUSat:CONN_TAB" H 5800 2950 60  0001 C CNN
-F 3 "" H 5800 2950 60  0001 C CNN
-F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Panel-Welding-Tabbing-Wire-10m-1-8-0-16mm-New/213231_32819641955.html?spm=2114.12010612.0.0.5c0c14a2RvBb40" H 5800 2950 60  0001 C CNN "Aliexpress"
-	1    5800 2950
-	1    0    0    -1  
+P 4300 4925
+F 0 "J8" H 4300 4725 60  0000 C CNN
+F 1 "CONN-TAB" H 4300 5225 60  0000 C CNN
+F 2 "SFUSat:CONN_TAB" H 4300 4925 60  0001 C CNN
+F 3 "" H 4300 4925 60  0001 C CNN
+F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Panel-Welding-Tabbing-Wire-10m-1-8-0-16mm-New/213231_32819641955.html?spm=2114.12010612.0.0.5c0c14a2RvBb40" H 4300 4925 60  0001 C CNN "Aliexpress"
+	1    4300 4925
+	0    1    1    0   
 $EndComp
 $Comp
 L MOLEX_FFC-14 J9
@@ -267,4 +267,20 @@ F 5 "SFH 2430-Z" H 8700 4350 60  0001 C CNN "PN"
 	1    8700 4350
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	3575 3750 3575 3900
+Wire Wire Line
+	1775 3850 1775 3700
+Wire Wire Line
+	1775 2775 1775 2900
+Wire Wire Line
+	1775 4650 1775 4775
+Wire Wire Line
+	2425 2775 2425 4775
+Wire Wire Line
+	3575 4700 3575 4825
+Wire Wire Line
+	3575 2825 3575 2950
+Wire Wire Line
+	4300 2825 4300 4825
 $EndSCHEMATC
