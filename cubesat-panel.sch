@@ -118,30 +118,6 @@ F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Pane
 	0    1    1    0   
 $EndComp
 $Comp
-L CONN-TAB J3
-U 1 1 5A729539
-P 2425 3700
-F 0 "J3" H 2425 3500 60  0000 C CNN
-F 1 "CONN-TAB" H 2425 4000 60  0000 C CNN
-F 2 "SFUSat:CONN_TAB" H 2425 3700 60  0001 C CNN
-F 3 "" H 2425 3700 60  0001 C CNN
-F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Panel-Welding-Tabbing-Wire-10m-1-8-0-16mm-New/213231_32819641955.html?spm=2114.12010612.0.0.5c0c14a2RvBb40" H 2425 3700 60  0001 C CNN "Aliexpress"
-	1    2425 3700
-	0    -1   -1   0   
-$EndComp
-$Comp
-L CONN-TAB J4
-U 1 1 5A729562
-P 2425 5900
-F 0 "J4" H 2425 5700 60  0000 C CNN
-F 1 "CONN-TAB" H 2425 6200 60  0000 C CNN
-F 2 "SFUSat:CONN_TAB" H 2425 5900 60  0001 C CNN
-F 3 "" H 2425 5900 60  0001 C CNN
-F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Panel-Welding-Tabbing-Wire-10m-1-8-0-16mm-New/213231_32819641955.html?spm=2114.12010612.0.0.5c0c14a2RvBb40" H 2425 5900 60  0001 C CNN "Aliexpress"
-	1    2425 5900
-	0    1    1    0   
-$EndComp
-$Comp
 L MOLEX_FFC-14 J9
 U 1 1 5A72B354
 P 5375 3600
@@ -157,18 +133,16 @@ $EndComp
 $Comp
 L MOLEX_FFC-14 J10
 U 1 1 5A72B5AE
-P 6250 3575
-F 0 "J10" H 6400 2175 60  0000 C CNN
-F 1 "MOLEX_FFC-14" H 6250 4025 60  0000 C CNN
-F 2 "SFUSat:MOLEX_FFC-14" H 6450 3575 60  0001 C CNN
-F 3 "http://www.molex.com/pdm_docs/sd/5034801400_sd.pdf" H 6450 3575 60  0001 C CNN
-F 4 "5034801400" H 6250 3575 60  0001 C CNN "PN"
-F 5 "WM1442CT-ND" H 6250 3575 60  0001 C CNN "Digikey"
-	1    6250 3575
+P 5400 5575
+F 0 "J10" H 5550 4175 60  0000 C CNN
+F 1 "MOLEX_FFC-14" H 5400 6025 60  0000 C CNN
+F 2 "SFUSat:MOLEX_FFC-14" H 5600 5575 60  0001 C CNN
+F 3 "http://www.molex.com/pdm_docs/sd/5034801400_sd.pdf" H 5600 5575 60  0001 C CNN
+F 4 "5034801400" H 5400 5575 60  0001 C CNN "PN"
+F 5 "WM1442CT-ND" H 5400 5575 60  0001 C CNN "Digikey"
+	1    5400 5575
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	2425 3800 2425 5800
 $Comp
 L GND #PWR01
 U 1 1 5A735E29
@@ -183,18 +157,18 @@ $EndComp
 $Comp
 L GND #PWR02
 U 1 1 5A735E71
-P 6725 4925
-F 0 "#PWR02" H 6725 4675 50  0001 C CNN
-F 1 "GND" H 6725 4775 50  0000 C CNN
-F 2 "" H 6725 4925 50  0001 C CNN
-F 3 "" H 6725 4925 50  0001 C CNN
-	1    6725 4925
+P 5875 6925
+F 0 "#PWR02" H 5875 6675 50  0001 C CNN
+F 1 "GND" H 5875 6775 50  0000 C CNN
+F 2 "" H 5875 6925 50  0001 C CNN
+F 3 "" H 5875 6925 50  0001 C CNN
+	1    5875 6925
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6650 4825 6725 4825
+	5800 6825 5875 6825
 Wire Wire Line
-	6725 4825 6725 4925
+	5875 6825 5875 6925
 Wire Wire Line
 	5775 4850 5850 4850
 Wire Wire Line
@@ -309,32 +283,6 @@ F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Pane
 	1    3275 7175
 	0    1    1    0   
 $EndComp
-$Comp
-L CONN-TAB J7
-U 1 1 5A763CE4
-P 3975 3750
-F 0 "J7" H 3975 3550 60  0000 C CNN
-F 1 "CONN-TAB" H 3975 4050 60  0000 C CNN
-F 2 "SFUSat:CONN_TAB" H 3975 3750 60  0001 C CNN
-F 3 "" H 3975 3750 60  0001 C CNN
-F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Panel-Welding-Tabbing-Wire-10m-1-8-0-16mm-New/213231_32819641955.html?spm=2114.12010612.0.0.5c0c14a2RvBb40" H 3975 3750 60  0001 C CNN "Aliexpress"
-	1    3975 3750
-	0    -1   -1   0   
-$EndComp
-$Comp
-L CONN-TAB J8
-U 1 1 5A763CEB
-P 3975 5950
-F 0 "J8" H 3975 5750 60  0000 C CNN
-F 1 "CONN-TAB" H 3975 6250 60  0000 C CNN
-F 2 "SFUSat:CONN_TAB" H 3975 5950 60  0001 C CNN
-F 3 "" H 3975 5950 60  0001 C CNN
-F 4 "https://www.aliexpress.com/store/product/JSLINTER-Solar-Cell-DIY-Solar-Panel-Welding-Tabbing-Wire-10m-1-8-0-16mm-New/213231_32819641955.html?spm=2114.12010612.0.0.5c0c14a2RvBb40" H 3975 5950 60  0001 C CNN "Aliexpress"
-	1    3975 5950
-	0    1    1    0   
-$EndComp
-Wire Wire Line
-	3975 3850 3975 5850
 $Comp
 L JSLINTER P11
 U 1 1 5A763CF3
@@ -619,4 +567,138 @@ F 3 "" H 6725 2550 60  0001 C CNN
 	1    6725 2550
 	1    0    0    -1  
 $EndComp
+Text Label 1725 1925 0    54   ~ 0
+PV1+
+Text Label 1725 7000 0    54   ~ 0
+PV1-
+Text Label 3275 7050 0    54   ~ 0
+PV2-
+Text Label 3275 1950 0    54   ~ 0
+PV2+
+Wire Wire Line
+	5675 3400 5800 3400
+Wire Wire Line
+	5675 4700 5800 4700
+$Comp
+L GND #PWR03
+U 1 1 5A9C0155
+P 5750 4600
+F 0 "#PWR03" H 5750 4350 50  0001 C CNN
+F 1 "GND" H 5750 4450 50  0000 C CNN
+F 2 "" H 5750 4600 50  0001 C CNN
+F 3 "" H 5750 4600 50  0001 C CNN
+	1    5750 4600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L GND #PWR04
+U 1 1 5A9C0202
+P 5725 3500
+F 0 "#PWR04" H 5725 3250 50  0001 C CNN
+F 1 "GND" H 5725 3350 50  0000 C CNN
+F 2 "" H 5725 3500 50  0001 C CNN
+F 3 "" H 5725 3500 50  0001 C CNN
+	1    5725 3500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5675 3500 5725 3500
+Wire Wire Line
+	5675 3600 5975 3600
+Wire Wire Line
+	5675 3700 5975 3700
+Wire Wire Line
+	5675 3800 5975 3800
+Wire Wire Line
+	5675 3900 5975 3900
+Wire Wire Line
+	5675 4000 5975 4000
+Wire Wire Line
+	5675 4100 5975 4100
+Wire Wire Line
+	5675 4200 5975 4200
+Wire Wire Line
+	5675 4300 5975 4300
+Wire Wire Line
+	5675 4400 5975 4400
+Wire Wire Line
+	5675 4500 5975 4500
+Wire Wire Line
+	5675 4600 5750 4600
+Text Label 5800 3400 0    54   ~ 0
+3V3
+Text Label 5800 4700 0    54   ~ 0
+3V3
+Text Label 5975 3900 0    54   ~ 0
+D6
+Text Label 5975 4000 0    54   ~ 0
+D7
+Text Label 5975 4100 0    54   ~ 0
+D8
+Text Label 5975 4200 0    54   ~ 0
+D9
+Wire Wire Line
+	5700 5375 5825 5375
+Wire Wire Line
+	5700 6675 5825 6675
+$Comp
+L GND #PWR05
+U 1 1 5A9C7475
+P 5775 6575
+F 0 "#PWR05" H 5775 6325 50  0001 C CNN
+F 1 "GND" H 5775 6425 50  0000 C CNN
+F 2 "" H 5775 6575 50  0001 C CNN
+F 3 "" H 5775 6575 50  0001 C CNN
+	1    5775 6575
+	0    -1   -1   0   
+$EndComp
+$Comp
+L GND #PWR06
+U 1 1 5A9C747B
+P 5750 5475
+F 0 "#PWR06" H 5750 5225 50  0001 C CNN
+F 1 "GND" H 5750 5325 50  0000 C CNN
+F 2 "" H 5750 5475 50  0001 C CNN
+F 3 "" H 5750 5475 50  0001 C CNN
+	1    5750 5475
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5700 5475 5750 5475
+Wire Wire Line
+	5700 5875 6000 5875
+Wire Wire Line
+	5700 5975 6000 5975
+Wire Wire Line
+	5700 6075 6000 6075
+Wire Wire Line
+	5700 6175 6000 6175
+Wire Wire Line
+	5700 6575 5775 6575
+Text Label 5825 5375 0    54   ~ 0
+3V3
+Text Label 5825 6675 0    54   ~ 0
+3V3
+Text Label 6000 5875 0    54   ~ 0
+D6
+Text Label 6000 5975 0    54   ~ 0
+D7
+Text Label 6000 6075 0    54   ~ 0
+D8
+Text Label 6000 6175 0    54   ~ 0
+D9
+Text Label 5975 3800 0    60   ~ 0
+D0
+Text Label 5975 3600 0    60   ~ 0
+D2
+Text Label 5975 3700 0    60   ~ 0
+D1
+Text Label 5975 4300 0    60   ~ 0
+D3
+Text Label 5975 4400 0    60   ~ 0
+D4
+Text Label 5975 4500 0    60   ~ 0
+D5
+Text Notes 8250 5850 0    54   ~ 0
+Need to confirm umbilical connection before proceeding\n
 $EndSCHEMATC
