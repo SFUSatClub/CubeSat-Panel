@@ -413,18 +413,6 @@ Wire Wire Line
 	9225 2675 9575 2675
 Wire Wire Line
 	9225 2025 9575 2025
-Text Label 9425 2025 0    60   ~ 0
-D0
-Text Label 9450 2675 0    60   ~ 0
-D2
-Text Label 9450 3325 0    60   ~ 0
-D1
-Text Label 9450 3975 0    60   ~ 0
-D3
-Text Label 9450 4550 0    60   ~ 0
-D4
-Text Label 9450 5125 0    60   ~ 0
-D5
 Text Notes 1800 1125 0    118  ~ 0
 Solar Cells
 Text Notes 5275 1025 0    118  ~ 0
@@ -612,10 +600,6 @@ Wire Wire Line
 Wire Wire Line
 	5675 3900 5975 3900
 Wire Wire Line
-	5675 4000 5975 4000
-Wire Wire Line
-	5675 4100 5975 4100
-Wire Wire Line
 	5675 4200 5975 4200
 Wire Wire Line
 	5675 4300 5975 4300
@@ -629,14 +613,6 @@ Text Label 5800 3400 0    54   ~ 0
 3V3
 Text Label 5800 4700 0    54   ~ 0
 3V3
-Text Label 5975 3900 0    54   ~ 0
-D6
-Text Label 5975 4000 0    54   ~ 0
-D7
-Text Label 5975 4100 0    54   ~ 0
-D8
-Text Label 5975 4200 0    54   ~ 0
-D9
 Wire Wire Line
 	5700 5375 5825 5375
 Wire Wire Line
@@ -668,10 +644,6 @@ Wire Wire Line
 Wire Wire Line
 	5700 5875 6000 5875
 Wire Wire Line
-	5700 5975 6000 5975
-Wire Wire Line
-	5700 6075 6000 6075
-Wire Wire Line
 	5700 6175 6000 6175
 Wire Wire Line
 	5700 6575 5775 6575
@@ -679,26 +651,220 @@ Text Label 5825 5375 0    54   ~ 0
 3V3
 Text Label 5825 6675 0    54   ~ 0
 3V3
-Text Label 6000 5875 0    54   ~ 0
-D6
-Text Label 6000 5975 0    54   ~ 0
-D7
-Text Label 6000 6075 0    54   ~ 0
-D8
-Text Label 6000 6175 0    54   ~ 0
-D9
-Text Label 5975 3800 0    60   ~ 0
-D0
-Text Label 5975 3600 0    60   ~ 0
-D2
-Text Label 5975 3700 0    60   ~ 0
-D1
-Text Label 5975 4300 0    60   ~ 0
-D3
-Text Label 5975 4400 0    60   ~ 0
-D4
-Text Label 5975 4500 0    60   ~ 0
-D5
 Text Notes 8250 5850 0    54   ~ 0
 Need to confirm umbilical connection before proceeding\n
+NoConn ~ 5700 5575
+NoConn ~ 5700 5675
+NoConn ~ 5700 5775
+NoConn ~ 5700 6275
+NoConn ~ 5700 6375
+NoConn ~ 5700 6475
+$Comp
+L GND #PWR07
+U 1 1 5AA3DF01
+P 5200 1400
+F 0 "#PWR07" H 5200 1150 50  0001 C CNN
+F 1 "GND" H 5200 1250 50  0000 C CNN
+F 2 "" H 5200 1400 50  0001 C CNN
+F 3 "" H 5200 1400 50  0001 C CNN
+	1    5200 1400
+	0    1    1    0   
+$EndComp
+$Comp
+L GND #PWR08
+U 1 1 5AA3E0F8
+P 5200 1800
+F 0 "#PWR08" H 5200 1550 50  0001 C CNN
+F 1 "GND" H 5200 1650 50  0000 C CNN
+F 2 "" H 5200 1800 50  0001 C CNN
+F 3 "" H 5200 1800 50  0001 C CNN
+	1    5200 1800
+	0    1    1    0   
+$EndComp
+$Comp
+L GND #PWR09
+U 1 1 5AA3E541
+P 5200 2175
+F 0 "#PWR09" H 5200 1925 50  0001 C CNN
+F 1 "GND" H 5200 2025 50  0000 C CNN
+F 2 "" H 5200 2175 50  0001 C CNN
+F 3 "" H 5200 2175 50  0001 C CNN
+	1    5200 2175
+	0    1    1    0   
+$EndComp
+$Comp
+L GND #PWR010
+U 1 1 5AA3E5EE
+P 5200 2550
+F 0 "#PWR010" H 5200 2300 50  0001 C CNN
+F 1 "GND" H 5200 2400 50  0000 C CNN
+F 2 "" H 5200 2550 50  0001 C CNN
+F 3 "" H 5200 2550 50  0001 C CNN
+	1    5200 2550
+	0    1    1    0   
+$EndComp
+$Comp
+L GND #PWR011
+U 1 1 5AA3E747
+P 5775 2550
+F 0 "#PWR011" H 5775 2300 50  0001 C CNN
+F 1 "GND" H 5775 2400 50  0000 C CNN
+F 2 "" H 5775 2550 50  0001 C CNN
+F 3 "" H 5775 2550 50  0001 C CNN
+	1    5775 2550
+	0    1    1    0   
+$EndComp
+$Comp
+L GND #PWR012
+U 1 1 5AA3E7F4
+P 5775 2175
+F 0 "#PWR012" H 5775 1925 50  0001 C CNN
+F 1 "GND" H 5775 2025 50  0000 C CNN
+F 2 "" H 5775 2175 50  0001 C CNN
+F 3 "" H 5775 2175 50  0001 C CNN
+	1    5775 2175
+	0    1    1    0   
+$EndComp
+$Comp
+L GND #PWR013
+U 1 1 5AA3E8A1
+P 5775 1800
+F 0 "#PWR013" H 5775 1550 50  0001 C CNN
+F 1 "GND" H 5775 1650 50  0000 C CNN
+F 2 "" H 5775 1800 50  0001 C CNN
+F 3 "" H 5775 1800 50  0001 C CNN
+	1    5775 1800
+	0    1    1    0   
+$EndComp
+$Comp
+L GND #PWR014
+U 1 1 5AA3ED2C
+P 5775 1400
+F 0 "#PWR014" H 5775 1150 50  0001 C CNN
+F 1 "GND" H 5775 1250 50  0000 C CNN
+F 2 "" H 5775 1400 50  0001 C CNN
+F 3 "" H 5775 1400 50  0001 C CNN
+	1    5775 1400
+	0    1    1    0   
+$EndComp
+$Comp
+L GND #PWR015
+U 1 1 5AA3EDD9
+P 6425 1400
+F 0 "#PWR015" H 6425 1150 50  0001 C CNN
+F 1 "GND" H 6425 1250 50  0000 C CNN
+F 2 "" H 6425 1400 50  0001 C CNN
+F 3 "" H 6425 1400 50  0001 C CNN
+	1    6425 1400
+	0    1    1    0   
+$EndComp
+$Comp
+L GND #PWR016
+U 1 1 5AA3EE86
+P 6425 1800
+F 0 "#PWR016" H 6425 1550 50  0001 C CNN
+F 1 "GND" H 6425 1650 50  0000 C CNN
+F 2 "" H 6425 1800 50  0001 C CNN
+F 3 "" H 6425 1800 50  0001 C CNN
+	1    6425 1800
+	0    1    1    0   
+$EndComp
+$Comp
+L GND #PWR017
+U 1 1 5AA3EF33
+P 6425 2175
+F 0 "#PWR017" H 6425 1925 50  0001 C CNN
+F 1 "GND" H 6425 2025 50  0000 C CNN
+F 2 "" H 6425 2175 50  0001 C CNN
+F 3 "" H 6425 2175 50  0001 C CNN
+	1    6425 2175
+	0    1    1    0   
+$EndComp
+$Comp
+L GND #PWR018
+U 1 1 5AA3F2F8
+P 6425 2550
+F 0 "#PWR018" H 6425 2300 50  0001 C CNN
+F 1 "GND" H 6425 2400 50  0000 C CNN
+F 2 "" H 6425 2550 50  0001 C CNN
+F 3 "" H 6425 2550 50  0001 C CNN
+	1    6425 2550
+	0    1    1    0   
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 5AA6C4FA
+P 5675 4100
+F 0 "#PWR?" H 5675 3850 50  0001 C CNN
+F 1 "GND" H 5675 3950 50  0000 C CNN
+F 2 "" H 5675 4100 50  0001 C CNN
+F 3 "" H 5675 4100 50  0001 C CNN
+	1    5675 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 5AA6C5A7
+P 5675 4000
+F 0 "#PWR?" H 5675 3750 50  0001 C CNN
+F 1 "GND" H 5675 3850 50  0000 C CNN
+F 2 "" H 5675 4000 50  0001 C CNN
+F 3 "" H 5675 4000 50  0001 C CNN
+	1    5675 4000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 5AA6CE56
+P 5700 5975
+F 0 "#PWR?" H 5700 5725 50  0001 C CNN
+F 1 "GND" H 5700 5825 50  0000 C CNN
+F 2 "" H 5700 5975 50  0001 C CNN
+F 3 "" H 5700 5975 50  0001 C CNN
+	1    5700 5975
+	0    -1   -1   0   
+$EndComp
+$Comp
+L GND #PWR?
+U 1 1 5AA6CF87
+P 5700 6075
+F 0 "#PWR?" H 5700 5825 50  0001 C CNN
+F 1 "GND" H 5700 5925 50  0000 C CNN
+F 2 "" H 5700 6075 50  0001 C CNN
+F 3 "" H 5700 6075 50  0001 C CNN
+	1    5700 6075
+	0    -1   -1   0   
+$EndComp
+Text Label 5975 4500 0    60   ~ 0
+D1
+Text Label 5975 4400 0    60   ~ 0
+D2
+Text Label 5975 4300 0    60   ~ 0
+D3
+Text Label 5975 4200 0    60   ~ 0
+DA
+Text Label 5975 3900 0    60   ~ 0
+DB
+Text Label 5975 3800 0    54   ~ 0
+D6
+Text Label 5975 3700 0    60   ~ 0
+D7
+Text Label 5975 3600 0    60   ~ 0
+D8
+Text Label 6000 6175 0    60   ~ 0
+DA
+Text Label 6000 5875 0    60   ~ 0
+DB
+Text Label 9425 2675 0    60   ~ 0
+D8
+Text Label 9450 3325 0    60   ~ 0
+D7
+Text Label 9425 2025 0    54   ~ 0
+D6
+Text Label 9425 3975 0    60   ~ 0
+D3
+Text Label 9400 4550 0    60   ~ 0
+D2
+Text Label 9425 5125 0    60   ~ 0
+D1
 $EndSCHEMATC
