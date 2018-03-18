@@ -387,8 +387,6 @@ Connection ~ 8575 3325
 Wire Wire Line
 	8650 2675 8575 2675
 Connection ~ 8575 2675
-Wire Bus Line
-	9675 2025 9675 5250
 Wire Wire Line
 	9225 5125 9575 5125
 Entry Wire Line
@@ -867,4 +865,6 @@ Text Label 9400 4550 0    60   ~ 0
 D2
 Text Label 9425 5125 0    60   ~ 0
 D1
+Wire Bus Line
+	9675 2025 9675 5250
 $EndSCHEMATC
