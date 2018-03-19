@@ -867,4 +867,6 @@ Text Label 9425 5125 0    60   ~ 0
 D1
 Wire Bus Line
 	9675 2025 9675 5250
+Text Label 8575 2025 2    54   ~ 0
+3V3
 $EndSCHEMATC
